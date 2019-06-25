@@ -1,0 +1,15 @@
+.clear{
+
+}
+.clear::after{
+    display: block;
+    content: "";
+}
+
+.clear-other{
+    overflow: hidden;
+}
+
+.mb20{
+    margin-bottom: 20px;
+}
